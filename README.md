@@ -11,7 +11,7 @@ Table of Contents
 	5.	Usage
 	6.	Acknowledgments
 
-##Introduction
+## Introduction
 
 This project focuses on:
 	•	BMIgap computation and correction for clinical and healthy control groups.
@@ -27,7 +27,7 @@ Main Datasets:
 	3.	Additional Clinical Scores:
 	•	PANSS: Positive, Negative, and General subscales.
 
-##Code Summary
+## Code Summary
 
 1. BMIgap Computation
 
@@ -65,13 +65,13 @@ Main Datasets:
 	•	Automating ANOVA and t-test workflows.
 	•	Filtering and grouping data by age, weight change, or demographic criteria.
 
-##Requirements
+## Requirements
 
 	•	MATLAB (R2020b or later)
 	•	Data files (PRONIA, MUC_SCZ, and clinical datasets)
 	•	Statistics and Machine Learning Toolbox
 
-##Usage
+## Usage
 
 	1.	Clone the repository:
 
@@ -101,6 +101,6 @@ run GroupComparisons.m
 	4.	Results:
 	•	Outputs include visualizations and .mat files summarizing statistical results.
 
-##Contributer
+## Contributer
 - [Ariane Wiegand](https://github.com/arianewiegand)
 
